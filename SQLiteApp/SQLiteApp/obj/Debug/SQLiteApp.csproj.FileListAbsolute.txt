@@ -1,0 +1,68 @@
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.exe.config
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.pdb
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Buffers.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Memory.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Buffers.xml
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Memory.xml
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csprojAssemblyReference.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\MainWindow.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\App.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_Content.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.lref
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\MainWindow.baml
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.g.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.Properties.Resources.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.GenerateResource.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.CoreCompileInputs.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.CopyComplete
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.pdb
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.exe.config
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.exe
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.pdb
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\SQLitePCLRaw.core.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\System.Buffers.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\System.Memory.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\System.Numerics.Vectors.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\System.Buffers.xml
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\System.Memory.xml
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\System.Numerics.Vectors.xml
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csprojAssemblyReference.cache
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\MainWindow.g.cs
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\App.g.cs
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_Content.g.cs
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.cache
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.lref
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\MainWindow.baml
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.g.resources
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.Properties.Resources.resources
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.GenerateResource.cache
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.CoreCompileInputs.cache
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.CopyComplete
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.exe
+D:\Borntodev\SQLite\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.pdb
